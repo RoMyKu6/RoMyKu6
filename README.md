@@ -1,5 +1,5 @@
 ### Hi there 👋
-## i am suck in your mom face
+## i am
 <!--
 **RoMyKu6/RoMyKu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
