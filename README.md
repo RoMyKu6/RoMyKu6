@@ -5,4 +5,6 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <a href="https://pobedarf.ru/wp-content/uploads/2020/02/gitler-802x534.jpg">
     <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white">
+    <a href="https://tankionline.com/ru/">
+      <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white">
 </div>
