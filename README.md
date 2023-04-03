@@ -7,4 +7,10 @@
     <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white">
     <a href="https://tankionline.com/ru/">
       <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white">
+  
 </div>
+
+    <div id="stat" align="center">
+        <img scr="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoMyKu6=free-for.dev">
+         <img scr="">
+        <img scr="">
